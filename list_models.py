@@ -147,23 +147,29 @@ def _fetch_gemini_models_live(default_gemini_models):
 
 def get_gemini_models():
     # Default models if API call fails. Sourced from
-    # https://ai.google.dev/gemini-api/docs/deprecations — last reviewed 2026-05-26.
+    # https://ai.google.dev/gemini-api/docs/deprecations — last reviewed
+    # 2026-06-07. Models already past their earliest shutdown date are omitted
+    # (e.g. gemini-2.0-flash / -lite, shutdown 2026-06-01). When updating this
+    # list, cross-check the deprecation page and annotate each entry with its
+    # earliest shutdown date so the next maintainer knows what to refresh.
     default_gemini_models = [
-        # Gemini 3.x Models (newest)
-        "gemini-3.1-pro-preview",
-        "gemini-3-pro-image-preview",      # no shutdown date announced
-        "gemini-3.1-flash-image-preview",  # no shutdown date announced
+        # Gemini 3.x — GA
         "gemini-3.5-flash",                # GA, no shutdown date announced
-        # Gemini 2.5 Models
+        "gemini-3.1-flash-image",          # GA, no shutdown date announced
+        "gemini-3-pro-image",              # GA, no shutdown date announced
+        "gemini-3.1-flash-lite",           # GA, shutdown 2027-05-07
+        # Gemini 3.x — Preview
+        "gemini-3.1-pro-preview",          # no shutdown date announced
+        "gemini-3-flash-preview",          # no shutdown date announced (replacement: gemini-3.5-flash)
+        "gemini-3-pro-image-preview",      # shutdown 2026-06-25 (replacement: gemini-3-pro-image)
+        "gemini-3.1-flash-image-preview",  # shutdown 2026-06-25 (replacement: gemini-3.1-flash-image)
+        # Gemini 2.5 GA (shutdown 2026-10-16)
         "gemini-2.5-pro",
         "gemini-2.5-flash",
         "gemini-2.5-flash-lite",
-        "gemini-2.5-flash-image",
-        # Gemini 2.0 Models
-        "gemini-2.0-flash",                # shutdown 2026-06-01
-        "gemini-2.0-flash-lite",           # shutdown 2026-06-01
-        # Image Generation Models
-        "imagen-4.0-generate-001",         # shutdown 2026-06-24
+        "gemini-2.5-flash-image",          # shutdown 2026-10-02
+        # Imagen 4 (shutdown 2026-06-24 — replacement: gemini-3-pro-image / gemini-2.5-flash-image)
+        "imagen-4.0-generate-001",
         "imagen-4.0-ultra-generate-001",
         "imagen-4.0-fast-generate-001",
     ]
@@ -305,19 +311,25 @@ def get_gemini_image_models():
     """
     Dynamically fetches a list of Gemini models that support image generation.
 
-    Models (verified against the deprecation schedule on 2026-05-26):
+    Models (verified against the deprecation schedule on 2026-06-07):
+    - gemini-3-pro-image (Nano Banana Pro, GA): no shutdown date
+    - gemini-3.1-flash-image (Nano Banana 2, GA): no shutdown date
     - gemini-2.5-flash-image (Nano Banana, GA): shutdown 2026-10-02
-    - gemini-3-pro-image-preview (Nano Banana Pro, Preview): no shutdown date
-    - gemini-3.1-flash-image-preview (Nano Banana 2, Preview): no shutdown date
+    - gemini-3-pro-image-preview (Preview): shutdown 2026-06-25 (replacement: gemini-3-pro-image)
+    - gemini-3.1-flash-image-preview (Preview): shutdown 2026-06-25 (replacement: gemini-3.1-flash-image)
     - imagen-4.0-generate-001: shutdown 2026-06-24
     """
     # gemini-2.5-flash-image-preview was shut down 2026-01-15; the GA name is
-    # now canonical.
+    # now canonical. The GA -image names (gemini-3-pro-image,
+    # gemini-3.1-flash-image) supersede the -preview aliases shutting down
+    # 2026-06-25.
     fallback_models = [
-        "gemini-2.5-flash-image",
-        "gemini-3-pro-image-preview",
-        "gemini-3.1-flash-image-preview",
-        "imagen-4.0-generate-001",
+        "gemini-3-pro-image",              # GA, no shutdown date announced
+        "gemini-3.1-flash-image",          # GA, no shutdown date announced
+        "gemini-2.5-flash-image",          # shutdown 2026-10-02
+        "gemini-3-pro-image-preview",      # shutdown 2026-06-25 (replacement: gemini-3-pro-image)
+        "gemini-3.1-flash-image-preview",  # shutdown 2026-06-25 (replacement: gemini-3.1-flash-image)
+        "imagen-4.0-generate-001",         # shutdown 2026-06-24
     ]
 
     cached = _get_cached("gemini_image")

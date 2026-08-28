@@ -9,17 +9,26 @@
 
 | # | Video | Moral | Status |
 |---|-------|-------|--------|
-| v01 | Kibo's First Day! | Being brave is easier when you smile and say hello | 🖼️ hero+audio ✅ |
-| v02 | Momo Can't Sleep! | When you can't sleep, count the twinkling stars | 🖼️ hero+audio ✅ |
-| v03 | Pip's Big Splash! | Be brave, take one small step | 🖼️ hero+audio ✅ |
-| v04 | The Littlest Roar! | You don't have to be big to be brave | 🖼️ hero+audio ✅ |
-| v05 | The Rainbow Carrot! | Sharing makes happy feelings bigger | 🖼️ hero+audio ✅ |
-| v06 | Polo's Brave Slide! | Scariest things can become your favorite things | 🖼️ hero+audio ✅ |
-| v07 | Fly Away Balloon! | Good friends make everything right again | 🖼️ hero+audio ✅ |
-| v08 | A Hug for Poke! | Everybody deserves love, kindness finds a way | 🖼️ hero+audio ✅ |
-| v09 | Ollie's Lost Treasure! | Friends help friends | 🖼️ hero+audio ✅ |
-| v10 | Gigi Reaches High! | When we help each other, we can reach anything | 🖼️ hero+audio ✅ |
-| v11–v20 | Batch 2 (10 new stories) | — | ⬜ |
+| v01 | Kibo's First Day! | Being brave is easier when you smile and say hello | 🎬 DONE |
+| v02 | Momo Can't Sleep! | When you can't sleep, count the twinkling stars | 🎬 DONE |
+| v03 | Pip's Big Splash! | Be brave, take one small step | 🎬 DONE |
+| v04 | The Littlest Roar! | You don't have to be big to be brave | 🎬 DONE |
+| v05 | The Rainbow Carrot! | Sharing makes happy feelings bigger | 🎬 DONE |
+| v06 | Polo's Brave Slide! | Scariest things can become your favorite things | 🎬 DONE |
+| v07 | Fly Away Balloon! | Good friends make everything right again | 🎬 DONE |
+| v08 | A Hug for Poke! | Everybody deserves love, kindness finds a way | 🎬 DONE |
+| v09 | Ollie's Lost Treasure! | Friends help friends | 🎬 DONE |
+| v10 | Gigi Reaches High! | When we help each other, we can reach anything | 🎬 DONE |
+| v11 | Timo's Slow Race! | Slow and steady, never give up | 🎙️ audio ✅ |
+| v12 | Nova the Night Owl! | The dark is full of friendly little lights | 🎙️ audio ✅ |
+| v13 | Barni's Honey Pot! | A shared treat is the sweetest treat | 🎙️ audio ✅ |
+| v14 | Finni and the Fallen Star! | Helping someone makes your kindness shine | 🎙️ audio ✅ |
+| v15 | Dolly's Big Jump! | Practice makes progress, keep trying | 🎙️ audio ✅ |
+| v16 | Kiki Climbs High! | If you fall, try again | 🎙️ audio ✅ |
+| v17 | Hazel's Muddy Day! | Play hard, then scrub-a-dub clean | 🎙️ audio ✅ |
+| v18 | Dot's Hide-and-Seek! | Making your friends smile wins every time | 🎙️ audio ✅ |
+| v19 | Rocky Says Sorry! | Saying sorry fixes friendships | 🎙️ audio ✅ |
+| v20 | Willa's Little Song! | Your voice matters | 🎙️ audio ✅ |
 | v21–v30 | Batch 3 (10 new stories) | — | ⬜ |
 
 ## Turn plan (quotas: 10 images + 10 voice clips per turn)

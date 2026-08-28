@@ -1,0 +1,75 @@
+{
+  "batch": 1,
+  "videos": [
+    {
+      "id": "v01", "slug": "kibo-first-day", "title": "Kibo's First Day!",
+      "moral": "Being brave is easier when you smile and say hello",
+      "hero_prompt": "A nervous adorable baby elephant named Kibo with huge sparkly eyes and a tiny backpack standing at the gate of a colorful treehouse school in a lush jungle, morning golden light, butterflies floating around him, shy smile",
+      "second_prompt": "Inside a sunny jungle classroom, shy baby elephant Kibo peeking through the door while a cheerful baby monkey named Miko waves hello from a small wooden desk, crayon drawings on the walls, warm welcoming light",
+      "script": "Have you ever been nervous on your very first day of school? Meet Kibo, the baby elephant with the wiggliest trunk in the whole jungle! This morning, Kibo's tummy felt full of fluttery butterflies. What if nobody likes me? he whispered. But when Kibo walked into class, a little monkey named Miko waved at him. Want to share my bananas? she asked. Kibo's big ears flapped with joy! They painted pictures, sang silly songs, and splashed in the muddy pond together. At home time, Kibo gave Miko the biggest elephant hug. You see, little friend, being brave is easier when you smile and say hello! Follow for more magical animal adventures!"
+    },
+    {
+      "id": "v02", "slug": "momo-cant-sleep", "title": "Momo Can't Sleep!",
+      "moral": "When you can't sleep, count the twinkling stars",
+      "hero_prompt": "A fluffy baby panda named Momo lying wide awake in a cozy bamboo bed in a cute bamboo bedroom, big sparkly sleepy eyes, moonlight streaming through a round window, starry night sky visible outside, soft blankets",
+      "second_prompt": "Baby panda Momo peacefully asleep cuddling her bamboo toy while gentle mama panda kisses her forehead, cozy warm moonlit bedroom, soft nightlight glow, magical twinkling stars outside the window, sweet dreams mood",
+      "script": "Uh oh, somebody can't sleep! Meet Momo, the fluffiest baby panda in the whole bamboo forest. Momo tumbled and turned, but sleep just would not come. Mama, I'm not sleepy! she yawned. Mama smiled and opened the cozy window. Let's count the twinkling stars, she whispered. One, two, three. Momo counted fireflies dancing in the garden, and little stars blinking goodnight. Her tiny eyes grew heavier and heavier, and her yawn became a great big panda yawn. Snuggled up warm and cozy, Momo drifted into the sweetest dream. When you can't sleep, little friend, take a deep breath and count the stars. One, two, three. Sweet dreams! Follow for more cozy bedtime stories!"
+    },
+    {
+      "id": "v03", "slug": "pips-big-splash", "title": "Pip's Big Splash!",
+      "moral": "Be brave, take one small step",
+      "hero_prompt": "A tiny fluffy yellow duckling named Pip standing nervously at the edge of a beautiful blue pond, one little toe touching the water, worried cute expression, duck family swimming in the background, lily pads, sunny day",
+      "second_prompt": "Baby duckling Pip paddling proudly and happily across the pond making a joyful splash, gentle mama duck and excited duckling siblings cheering from lily pads, water droplets sparkling in sunlight",
+      "script": "Splash alert! This is Pip, the littlest duckling on the whole pond, and today is swim day! But when Pip looked at the big blue water, his fluffy feathers shook. It's too deep! It's too splashy! he squeaked. Mama duck gently held his little wing. Be brave, little one, I'm right beside you. Pip took one tiny step, then another, then, PLOP! And guess what? Pip could float! Then he could paddle! Soon he was zooming across the pond like a little yellow speedboat, and his brothers and sisters cheered. You see, trying something new can be scary, little friend, but be brave and take one small step, and you might discover you love it! Follow for more brave little adventures!"
+    },
+    {
+      "id": "v04", "slug": "littlest-roar", "title": "The Littlest Roar!",
+      "moral": "You don't have to be big to be brave",
+      "hero_prompt": "A tiny adorable lion cub named Rori with a fluffy mane tuft standing on a small rock trying to roar in the golden savanna, mouth open in a tiny squeak, cute determined expression, acacia trees, warm sunset light",
+      "second_prompt": "Tiny lion cub Rori standing bravely on top of a tall rock roaring proudly with a mighty expression at golden sunset, his baby zebra and baby giraffe friends cheering happily below the rock, warm savanna glow, epic heartwarming moment",
+      "script": "Deep in the savanna lived Rori, the tiniest lion cub you have ever seen. And here is his big problem: Rori could not roar! When he tried, out came a tiny little squeak, and all the animals giggled. One day, Rori's best friend Zuri the zebra got stuck in the tall grass and called for help! Rori's heart went boom, boom, boom. He climbed the biggest rock, stood as tall as he could, took a deep breath, and, ROOOAR! The loudest roar the savanna had ever heard! Zuri was safe, and all the animals cheered for the little lion with the great big brave heart. Remember, little friend, you don't have to be big to be brave. Follow for more courage-filled adventures!"
+    },
+    {
+      "id": "v05", "slug": "rainbow-carrot", "title": "The Rainbow Carrot!",
+      "moral": "Sharing makes happy feelings bigger",
+      "hero_prompt": "A fluffy white baby bunny named Bella in a magical vegetable garden holding up a glowing rainbow-colored carrot with sparkles, amazed happy expression, butterflies floating, sunny day, colorful flowers",
+      "second_prompt": "Baby bunny Bella joyfully sharing pieces of the glowing rainbow carrot with her baby squirrel, baby hedgehog and baby mouse friends at a tiny picnic table in the magical garden, happy laughing friends, sparkles",
+      "script": "What is that sparkle in the garden? It's Bella the bunny, and she just dug up something amazing: a magical rainbow carrot, glowing with every color of the rainbow! Yum, all for me! she giggled. But then Bella heard tiny tummies rumbling. Her friends Squeaks the squirrel, Poke the hedgehog, and Mimi the mouse looked ever so hungry. Bella thought for a moment, then smiled her biggest bunny smile. Let's share it! And here is the magic part, little friend: every bite of the rainbow carrot tasted even sweeter when they shared it together. Sharing doesn't make your treat smaller. It makes happy feelings BIGGER! Follow for more magical friendships!"
+    },
+    {
+      "id": "v06", "slug": "polos-brave-slide", "title": "Polo's Brave Slide!",
+      "moral": "The scariest things can become your favorite things",
+      "hero_prompt": "A chubby baby penguin named Polo peeking nervously with one eye at the top of a giant sparkling ice slide, snowy arctic wonderland, other penguin friends sliding in the background, bright blue sky, glistening snow",
+      "second_prompt": "Baby penguin Polo sliding down the giant sparkling ice slide with his flippers up in the air, pure joy and excitement, snow spraying everywhere, papa penguin and friends cheering at the bottom, dynamic fun motion, bright blue sky",
+      "script": "Wheee! Wait, not yet! This is Polo, the baby penguin, and there is a giant sparkly ice slide right in front of him. All his friends zoom down it, but Polo? He is peeking with one eye. It's too tall! It's too fast! he gulped. His papa waddled up close. Little Polo, hold your breath, count to three, and be brave. One, two, three! Down went Polo, whoosh! Snow flying, flippers flying, heart flying! And do you know what he shouted at the bottom? Again! Again! Sometimes the scariest things turn into your favorite things, little friend. Count to three, be brave, and slide into adventure! Follow for more icy fun!"
+    },
+    {
+      "id": "v07", "slug": "fly-away-balloon", "title": "Fly Away Balloon!",
+      "moral": "Good friends make everything right again",
+      "hero_prompt": "A cute orange tabby kitten named Mittens bouncing happily with a big shiny red balloon in a colorful flower meadow, biggest joyful smile, butterflies, sunny blue sky, tulips and daisies",
+      "second_prompt": "A brave little bluebird flying high into the soft clouds catching the string of the red balloon and bringing it back, while kitten Mittens and her puppy and bunny friends jump and cheer from the flower meadow below, joyful rescue moment",
+      "script": "Oh no, watch out! Mittens the kitten has the prettiest red balloon in the whole meadow. She bounced with it, danced with it, and hugged it tight. But then, WHOOSH! A big gust of wind pulled the balloon right out of her paws! Up, up, up it floated into the clouds. Mittens' eyes filled with big teardrops. But wait, here come her friends! Tweety the little bluebird flapped high, high into the sky, gently caught the balloon string, and brought it safely home. Mittens smiled so wide her whiskers wiggled! When things go wrong, little friend, good friends help make everything right again. Follow for more heartwarming tales!"
+    },
+    {
+      "id": "v08", "slug": "hug-for-poke", "title": "A Hug for Poke!",
+      "moral": "Everybody deserves love, kindness finds a way",
+      "hero_prompt": "A tiny adorable baby hedgehog named Poke watching bunny and squirrel friends hug together from a distance, sad lonely big eyes, soft forest clearing with flowers, gentle dappled light",
+      "second_prompt": "Baby hedgehog Poke wearing a cozy little jacket woven from soft flower petals and green moss, receiving the gentlest group hug from his bunny, squirrel and owl friends, warm golden light, heartwarming happy tears moment",
+      "script": "Everyone needs hugs, even prickly little hedgehogs! This is Poke, the sweetest hedgehog in the whole forest, with one tiny problem: his spikes. Every time he tried to hug someone, OUCH! His friends hopped away. Poke felt so sad and lonely. But his clever friend Olive the owl had a wonderful idea! She wove the softest flower petals and moss into a cozy little jacket for Poke's spikes. And then came the gentlest forest hug ever! Poke almost cried happy tears, and so did all his friends. You see, little friend, everybody deserves love, and when we are kind and think of others, we always find a way. Follow for more feel-good forest stories!"
+    },
+    {
+      "id": "v09", "slug": "ollies-treasure", "title": "Ollie's Lost Treasure!",
+      "moral": "Friends help friends",
+      "hero_prompt": "A cute baby river otter named Ollie proudly holding a sparkly blue pebble on a sunny riverbank, sparkling river water, dragonflies, happy proud expression, smooth stones and reeds",
+      "second_prompt": "Underwater scene, a tiny muskrat friend handing the sparkly blue pebble to baby otter Ollie while beaver and colorful fish friends cheer around them, magical sunbeams streaming through the clear river water, joyful discovery moment",
+      "script": "Uh oh, something shiny is missing! Ollie the river otter has a treasure: a sparkly blue pebble, the roundest, smoothest pebble in the whole river. He keeps it right beside him while he naps. But when Ollie woke up, the pebble was gone! Oh no, oh no, oh no! He looked here, he looked there, he looked everywhere! Then his friends shouted, we will help you find it! The beavers looked under the logs, the fish looked in the reeds, and little Nibbles the muskrat spotted something shiny down deep in the water. It was Ollie's pebble! Hip hip hooray! When friends help friends, little friend, even lost treasures find their way home. Follow for more river adventures!"
+    },
+    {
+      "id": "v10", "slug": "gigi-reaches-high", "title": "Gigi Reaches High!",
+      "moral": "When we help each other, we can reach anything",
+      "hero_prompt": "A cute baby giraffe named Gigi stretching her little neck up toward yummy green leaves in a tall tree in the savanna, trying hard on tippy-toes, cute determined face, bright sunny day, fluffy clouds",
+      "second_prompt": "Baby giraffe Gigi standing on the back of a strong baby elephant with a playful baby monkey on the elephant's head, a playful animal stack reaching the yummy top leaves together, teamwork and laughter, savanna",
+      "script": "Stretch, stretch, streeeetch! Gigi the baby giraffe wants the yummy leaves at the very top of the tree. But her neck is just, too, SHORT! I will never reach them, Gigi sighed. Her friends saw her sad face and had the best idea ever. Bruno the elephant stood strong and tall. Milo the monkey climbed up on his back. And Gigi stood on her tippy-toes and, boop! She reached the leaves! But Gigi did not keep them all to herself. She shared leaves with everyone! Crunch, crunch, crunch. The yummiest leaves ever tasted even better together. When we help each other, little friend, we can reach anything! Follow for more tall-tale adventures!"
+    }
+  ]
+}

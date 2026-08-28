@@ -1,0 +1,75 @@
+{
+  "batch": 2,
+  "videos": [
+    {
+      "id": "v11", "slug": "timos-slow-race", "title": "Timo's Slow Race!",
+      "moral": "Slow and steady, never give up",
+      "hero_prompt": "A cute baby turtle named Timo wearing a tiny green bandana at the sunny meadow race track starting line next to a baby bunny and baby squirrel, determined happy smile, colorful bunting flags, bright day",
+      "second_prompt": "Baby turtle Timo crossing the race finish line first while amazed baby bunny and baby squirrel friends cheer and throw flower petals, confetti of leaves, sunny meadow, celebration",
+      "script": "On your marks, get set... go! Timo the tiny turtle is racing Billy the bunny and Sissy the squirrel around the sunny meadow. Billy zooms! Sissy dashes! And Timo? Step... by step... by step. The others stopped for carrot juice and a butterfly chase, but Timo kept walking, one slow little step at a time. And would you believe it? When Billy and Sissy forgot which way was the finish line, who showed them the way? Timo! He had seen every flower, every stone, every twist and turn. Timo crossed the finish line first, and his friends carried him on their shoulders. Slow and steady, little friend, never give up, and you will get there! Follow for more racing adventures!"
+    },
+    {
+      "id": "v12", "slug": "nova-the-night-owl", "title": "Nova the Night Owl!",
+      "moral": "The dark is full of friendly little lights",
+      "hero_prompt": "A cute baby owl named Nova peeking out from a cozy tree hollow at night wrapped in a tiny blanket, big worried sparkly eyes, full moon and stars above, soft purple night sky",
+      "second_prompt": "Baby owl Nova flying happily among twinkling stars and friendly glowing fireflies over the forest, wings spread wide with joy, mama owl watching proudly from the tree, magical glowing night",
+      "script": "When the sun goes down, whoo's that hiding under a blanket? It's Nova, the baby owl, and she is afraid of the dark! But mama owl has a secret: the night is full of little lights. Look up, she whispered. Nova peeked out and saw the moon smiling down, stars twinkling like tiny lanterns, and fireflies dancing like floating fairy lights. The dark wasn't empty at all, it was glowing! Nova flapped her little wings and flew right into the beautiful night. Whoo knew the dark could be so pretty? When you feel scared of the dark, little friend, remember: the stars are always waving at you. Follow for more bedtime adventures!"
+    },
+    {
+      "id": "v13", "slug": "barnis-honey-pot", "title": "Barni's Honey Pot!",
+      "moral": "A shared treat is the sweetest treat",
+      "hero_prompt": "A cute chubby baby bear named Barni hugging a big golden honey pot in a sunny berry forest, a drip of honey on his nose, happy excited expression, wildflowers and mushrooms",
+      "second_prompt": "Baby bear Barni happily sharing his golden honey pot with a baby fox cub, baby bunny and little bluebird friends at a tree-stump picnic in the sunny forest, laughing friends, warm light",
+      "script": "Mmm, what's that smell? It's honey! Barni the baby bear found the biggest honey pot in the whole forest. Mine, all mine! he giggled, and he hid behind a big rock to eat it all alone. But alone... the honey tasted kind of lonely. Then Barni heard his tummy... and his heart. He carried the heavy pot to his friends: Felix the fox, Bunny Rose, and Bella the bluebird. Let's share! he announced. And guess what? The honey suddenly tasted twice as sweet! A full pot is nice, little friend, but a shared treat is the sweetest thing of all. Follow for more sweet friendship stories!"
+    },
+    {
+      "id": "v14", "slug": "finni-and-the-star", "title": "Finni and the Fallen Star!",
+      "moral": "Helping someone makes your kindness shine",
+      "hero_prompt": "A cute baby fox named Finni in a snowy twilight pine forest looking up at a small glowing golden star tangled in the pine branches, magical sparkles falling like snowflakes, wonder in his big eyes",
+      "second_prompt": "Baby fox Finni gently freeing a glowing little golden star from the snowy pine branches, the star floating up into the night sky waving goodbye, other forest animals watching in wonder, magical twilight",
+      "script": "Look, up in the sky! A tiny star just tumbled down, down, down, and got stuck in the pine tree! Finni the baby fox found the little star crying twinkle-tears. Don't cry, little star, I'll help you! Finni climbed and climbed, careful not to slip on the snowy branches, and gently untangled the star's glowing tail. Whoosh! Up floated the star, spinning with joy, and it winked at Finni before joining its star friends in the sky. That night, the littlest star shone the brightest, right over Finni's den. When you help someone, little friend, your kindness shines like a star. Follow for more magical nights!"
+    },
+    {
+      "id": "v15", "slug": "dollys-big-jump", "title": "Dolly's Big Jump!",
+      "moral": "Practice makes progress, keep trying",
+      "hero_prompt": "A cute baby dolphin named Dolly jumping a small splash in bright turquoise sea water, colorful fish and a baby sea turtle friends watching, sunny sparkling ocean, joyful energy",
+      "second_prompt": "Baby dolphin Dolly leaping triumphantly high over a big beautiful wave with rainbow spray, fish and turtle friends cheering with bubbles below, triumphant sunny ocean scene",
+      "script": "Splish splash! Dolly the baby dolphin wants to jump over the big rainbow wave like the big dolphins. But every time she tries... plop! She tumbles into the water. I can't do it! Dolly pouted. Her mama smiled. Big jumps start with little jumps, sweetheart. So Dolly practiced: small hop, bigger hop, bigger still! Splash, splash, splash! She tumbled, she wobbled, but she did not stop. And one sunny morning, WHOOSH, Dolly flew over the big wave, sparkling like a rainbow rocket! All her fish friends cheered. Practice makes progress, little friend. Keep trying and you will soar! Follow for more ocean adventures!"
+    },
+    {
+      "id": "v16", "slug": "kiki-climbs-high", "title": "Kiki Climbs High!",
+      "moral": "If you fall, try again — you are stronger than you know",
+      "hero_prompt": "A cute fluffy baby koala named Kiki hugging the trunk of a big eucalyptus tree looking up toward mama koala on a high branch, big hopeful eyes, sunny Australian forest with golden light",
+      "second_prompt": "Baby koala Kiki proudly sitting on a high eucalyptus branch munching leaves after climbing all by herself, mama koala cheering happily from the branch below, sunny forest, proud happy moment",
+      "script": "Hold on tight! Kiki the baby koala wants to climb the big gum tree all by herself. But the trunk is slippery, and Kiki's little paws go whoops! right back down. Try again, said mama. So Kiki hugged the tree tight and reached up... and slipped again! One more try, said mama. Kiki took a deep breath, gripped with her strong little claws, and climbed up, up, up, all the way to the leafiest branch! Munch, munch, the leaves tasted like victory! If you fall down, little friend, hug tight and try again. You are stronger than you know! Follow for more climbing adventures!"
+    },
+    {
+      "id": "v17", "slug": "hazels-muddy-day", "title": "Hazel's Muddy Day!",
+      "moral": "Play hard, then scrub-a-dub clean",
+      "hero_prompt": "A cute baby hippo named Hazel covered in brown mud spots happily splashing in a muddy waterhole, tickbird friends giggling on her back, sunny savanna, joyful messy fun",
+      "second_prompt": "Baby hippo Hazel clean and shiny pink splashing in a bubbly clear bath tub surrounded by soap bubbles and her tickbird friends, mama hippo with a fluffy towel, sparkling clean happy moment",
+      "script": "Mud, glorious mud! Hazel the baby hippo LOVES to roll in the muddiest puddle in the whole savanna. Squelch, splat, splosh! By the end of the day, Hazel is a brown muddy dumpling, and even the birds giggle. But mama hippo says: muddy fun needs a bubbly bath! Into the tub goes Hazel. Scrub a dub dub! Until her skin is shiny pink and clean. And you know what? Hazel feels amazing! Playing and getting messy is wonderful, little friend, as long as you wash up afterward. Splash, play, then scrub! Follow for more happy hippo days!"
+    },
+    {
+      "id": "v18", "slug": "dots-hide-and-seek", "title": "Dot's Hide-and-Seek!",
+      "moral": "Making your friends smile wins every time",
+      "hero_prompt": "A cute spotted baby deer named Dot hiding behind a big berry bush in a sunny forest while baby bunny and baby squirrel friends cover their eyes and count, fireflies and butterflies, playful scene",
+      "second_prompt": "Baby deer Dot giggling as she pops out of the berry bush to share juicy red berries with her baby bunny and baby squirrel friends, happy friends hugging and laughing, warm forest light",
+      "script": "One, two, three, four, five... ready or not, here I come! It's hide-and-seek day in the forest, and Dot the baby deer has found the perfect hiding spot behind the big berry bush. Bunny and Squirrel search high, they search low, but they cannot find Dot! Then Dot hears Bunny's tummy rumble, a sad, hungry rumble. Dot forgot all about winning. She hopped out and shared her berries instead. You found me! she giggled. Bunny smiled the biggest smile. Winning is fun, little friend, but making your friends smile wins every time. Follow for more forest games!"
+    },
+    {
+      "id": "v19", "slug": "rocky-says-sorry", "title": "Rocky Says Sorry!",
+      "moral": "Saying sorry is the magic word that fixes friendships",
+      "hero_prompt": "A cute baby raccoon named Rocky and a sad baby bunny looking at a broken little wooden toy boat by a pond, both with worried sad expressions, gentle afternoon light",
+      "second_prompt": "Baby raccoon Rocky and baby bunny happily holding their repaired wooden toy boat with a brand new little sail at the sunny pond, both smiling big, sunset golden water, friendship restored",
+      "script": "Uh oh. Rocky the baby raccoon borrowed his friend's little wooden boat... and CRACK, it broke! Rocky's tummy did a worried flip. Maybe if I hide it, nobody will know? he thought. But his heart knew better. So Rocky took a deep breath, hopped over to Benny the bunny, and said the three bravest words: I'm... sorry! And here is the wonderful part: Benny smiled and said, let's fix it together! They glued the mast, patched the sail, and the little boat sailed again, even better than before. Saying sorry isn't scary, little friend. It's the magic words that fix friendships. Follow for more heartwarming tales!"
+    },
+    {
+      "id": "v20", "slug": "willas-little-song", "title": "Willa's Little Song!",
+      "moral": "Your voice matters — someone needs to hear your song",
+      "hero_prompt": "A cute baby whale named Willa singing under the sea with beautiful musical bubbles rising around her, colorful fish friends listening amazed, vibrant coral reef, magical light rays",
+      "second_prompt": "Baby whale Willa singing joyfully at the ocean surface at golden sunset with a big sparkling fountain splash, a pod of friendly whales and flying fish celebrating around her, warm glowing sea",
+      "script": "Deep in the big blue sea lived Willa the baby whale, and she had the tiniest little song. Sing louder, Willa! called her friends. But Willa was shy. What if they laugh at me? she whispered. One day, a little seahorse got lost in the foggy kelp. Willa took a deep breath and sang her very biggest song, a beautiful, booming whale song that echoed across the sea! The fog cleared, and the lost seahorse followed her song all the way home. Your voice matters, little friend. Big or small, someone out there needs to hear your song. Follow for more musical sea adventures!"
+    }
+  ]
+}

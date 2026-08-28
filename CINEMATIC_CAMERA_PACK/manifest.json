@@ -1,0 +1,535 @@
+{
+  "fps": 30,
+  "duration_seconds": 10.0,
+  "resolution": "1080x1920",
+  "videos": [
+    {
+      "image": 1,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_01/IMAGE_01_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in"
+    },
+    {
+      "image": 1,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_01/IMAGE_01_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle right-to-left dolly"
+    },
+    {
+      "image": 1,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_01/IMAGE_01_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow low-angle rise"
+    },
+    {
+      "image": 1,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_01/IMAGE_01_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Diagonal dolly movement"
+    },
+    {
+      "image": 1,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_01/IMAGE_01_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Pull-back with subtle lateral parallax"
+    },
+    {
+      "image": 1,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_01/IMAGE_01_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle cinematic orbit"
+    },
+    {
+      "image": 2,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_02/IMAGE_02_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in"
+    },
+    {
+      "image": 2,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_02/IMAGE_02_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle left-to-right dolly"
+    },
+    {
+      "image": 2,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_02/IMAGE_02_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow high-angle descent"
+    },
+    {
+      "image": 2,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_02/IMAGE_02_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Diagonal dolly movement"
+    },
+    {
+      "image": 2,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_02/IMAGE_02_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Pull-back with subtle lateral parallax"
+    },
+    {
+      "image": 2,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_02/IMAGE_02_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle cinematic orbit"
+    },
+    {
+      "image": 3,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_03/IMAGE_03_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in on logo"
+    },
+    {
+      "image": 3,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_03/IMAGE_03_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle left-to-right dolly"
+    },
+    {
+      "image": 3,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_03/IMAGE_03_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow vertical upward camera movement"
+    },
+    {
+      "image": 3,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_03/IMAGE_03_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Diagonal dolly movement"
+    },
+    {
+      "image": 3,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_03/IMAGE_03_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow pull-back"
+    },
+    {
+      "image": 3,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_03/IMAGE_03_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle cinematic orbit"
+    },
+    {
+      "image": 4,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_04/IMAGE_04_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in"
+    },
+    {
+      "image": 4,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_04/IMAGE_04_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle left-to-right reveal toward neon"
+    },
+    {
+      "image": 4,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_04/IMAGE_04_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle right-to-left dolly"
+    },
+    {
+      "image": 4,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_04/IMAGE_04_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow low-angle rise"
+    },
+    {
+      "image": 4,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_04/IMAGE_04_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Pull-back with subtle lateral parallax"
+    },
+    {
+      "image": 4,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_04/IMAGE_04_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow high-angle descent"
+    },
+    {
+      "image": 5,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_05/IMAGE_05_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow low-angle rise"
+    },
+    {
+      "image": 5,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_05/IMAGE_05_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow high-angle descent"
+    },
+    {
+      "image": 5,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_05/IMAGE_05_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in"
+    },
+    {
+      "image": 5,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_05/IMAGE_05_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Pull-back with subtle lateral parallax"
+    },
+    {
+      "image": 5,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_05/IMAGE_05_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle left-to-right dolly"
+    },
+    {
+      "image": 5,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_05/IMAGE_05_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Diagonal dolly movement"
+    },
+    {
+      "image": 6,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_06/IMAGE_06_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in"
+    },
+    {
+      "image": 6,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_06/IMAGE_06_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle left-to-right dolly"
+    },
+    {
+      "image": 6,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_06/IMAGE_06_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow vertical upward camera movement"
+    },
+    {
+      "image": 6,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_06/IMAGE_06_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Pull-back with subtle lateral parallax"
+    },
+    {
+      "image": 6,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_06/IMAGE_06_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Diagonal dolly movement"
+    },
+    {
+      "image": 6,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_06/IMAGE_06_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle cinematic orbit"
+    },
+    {
+      "image": 7,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_07/IMAGE_07_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in"
+    },
+    {
+      "image": 7,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_07/IMAGE_07_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle right-to-left dolly"
+    },
+    {
+      "image": 7,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_07/IMAGE_07_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow high-angle descent"
+    },
+    {
+      "image": 7,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_07/IMAGE_07_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Diagonal dolly movement"
+    },
+    {
+      "image": 7,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_07/IMAGE_07_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Pull-back with subtle lateral parallax"
+    },
+    {
+      "image": 7,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_07/IMAGE_07_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle cinematic orbit"
+    },
+    {
+      "image": 8,
+      "cam": 1,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_08/IMAGE_08_CAM_01.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle left-to-right reveal dolly"
+    },
+    {
+      "image": 8,
+      "cam": 2,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_08/IMAGE_08_CAM_02.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle right-to-left dolly"
+    },
+    {
+      "image": 8,
+      "cam": 3,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_08/IMAGE_08_CAM_03.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow cinematic push-in toward artwork"
+    },
+    {
+      "image": 8,
+      "cam": 4,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_08/IMAGE_08_CAM_04.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Slow pull-back"
+    },
+    {
+      "image": 8,
+      "cam": 5,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_08/IMAGE_08_CAM_05.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Diagonal dolly movement"
+    },
+    {
+      "image": 8,
+      "cam": 6,
+      "file": "CINEMATIC_CAMERA_PACK/IMAGE_08/IMAGE_08_CAM_06.mp4",
+      "duration": 10.0,
+      "size": [
+        1080,
+        1920
+      ],
+      "motion": "Subtle cinematic orbit"
+    }
+  ]
+}
